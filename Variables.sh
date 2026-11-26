@@ -1,4 +1,4 @@
-person1=Rajesh
+person1=Pavan
 person2=Ram
 
 echo "$person1:: Hello $person2"
